@@ -14,3 +14,9 @@ So what happens to human work when AI becomes part of it? I have experience usin
 
 Source
 Cui, Z. K., Demirer, M., Jaffe, S., Musolff, L., Peng, S., & Salz, T. (2026). The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers. Management Science. https://doi.org/10.1287/mnsc.2025.00535
+
+## Comment from Danny Hua (dh3744)
+
+I found this article interesting because it gives actual evidence for something I have noticed while using AI tools for software development myself. Tools like Claude Code and Codex can make development much faster, especially when working on repetitive tasks or parts of a project that would normally take a lot of time to implement. I also thought it was interesting that the benefits were larger for less-experienced developers, since AI can help developers understand unfamiliar code and technologies while they are still learning.
+
+At the same time, I agree that AI changes what software engineers need to focus on rather than simply replacing their work. As AI becomes better at generating code, I think skills like designing systems, reviewing generated code, debugging, and making technical decisions become even more important. It will be interesting to see how the role of software engineers continues to change as these tools become more capable.
